@@ -98,7 +98,10 @@ Este projeto é licenciado sob a Licença MIT License.
 ### Contato
 Para qualquer dúvida ou suporte técnico, entre em contato através de:
 - GitHub Issues
-- LinkedIn
+- LinkedIn  www.linkedin.com/in/c4rolsantiago9331224
+
+
+
 
 
 
