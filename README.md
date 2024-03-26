@@ -32,7 +32,7 @@ fornecedores, tornando mais fácil o contato e a gestão das compras.
 Studio Code, etc.).
 ## Configuração
 Clone o repositório:
-git clone [url-do-repositorio] 
+- git clone https://github.com/c4rolsantiago93/Sistema-de-Gestao-Estoque-para-Pequena-Empresa.git
 ### Uso
 Este sistema fornece uma interface de linha de comando para gerenciar produtos, 
 categorias, movimentações de estoque e fornecedores. A seguir, você encontrará 
