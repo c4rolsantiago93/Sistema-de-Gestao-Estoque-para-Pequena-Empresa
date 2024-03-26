@@ -1,4 +1,4 @@
-
+![banner](https://github.com/c4rolsantiago93/Sistema-de-Gestao-Estoque-para-Pequena-Empresa/blob/main/WhatsApp%20Image%202024-03-26%20at%2020.03.24.jpeg)
 
 
 ## Sistema-de-Gest-o-Estoque-para-Pequena-Empresa
